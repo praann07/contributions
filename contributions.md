@@ -17,6 +17,6 @@ Merged:
 Open:
 - **microsoft/PyRIT** #3799: match `%` and `_` literally in the objective and scenario name filters. https://github.com/microsoft/PyRIT/pull/3799
 - **EleutherAI/delphi** #196: keep `n_train` examples when `train_type` is `mix`. https://github.com/EleutherAI/delphi/pull/196
-- **TransformerLensOrg/TransformerLens** #1977: reject negative `temperature` and non-positive `repetition_penalty` in `sample_logits`. https://github.com/TransformerLensOrg/TransformerLens/pull/1977
+- **TransformerLensOrg/TransformerLens** #1977: reject negative `temperature` and non-positive `repetition_penalty` in `sample_logits`. https://github.com/TransformerLensOrg/TransformerLens/pull/1977 Merged 2026-11-04.
 - **SylphAI-Inc/AdalFlow** #511: make `append_to_jsonl` safe across threads. https://github.com/SylphAI-Inc/AdalFlow/pull/511
 - **arc53/DocsGPT** #3062: read markdown, rst and csv files as UTF-8. https://github.com/arc53/DocsGPT/pull/3062

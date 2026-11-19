@@ -27,3 +27,7 @@ Merged since the last update:
 Five merged in total (PyRIT #3154 and #3799, NeMo Agent Toolkit #2443, otari #2648, TransformerLens #1977).
 
 Still open: EleutherAI/delphi #196, SylphAI-Inc/AdalFlow #511, arc53/DocsGPT #3062, excalidraw/excalidraw #11831 and #11833.
+
+## Update (2026-11-19, later)
+Merged: **arc53/DocsGPT** #3062: read markdown, rst and csv files as UTF-8, honoring the caller's decoding-error policy (merged 2026-11-19). https://github.com/arc53/DocsGPT/pull/3062
+Six merged in total. Still open: EleutherAI/delphi #196, SylphAI-Inc/AdalFlow #511, excalidraw/excalidraw #11831 and #11833.
